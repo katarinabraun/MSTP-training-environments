@@ -1,7 +1,7 @@
 # MSTP-training-environments
 To accompany the manuscript entitled: "Gender Can Influence Student Experiences in MD-PhD Training"
 
-The repository contains raw data and code (Python 3) to generate figures 1, 2, and 3 in this paper. 
+The repository contains raw data and code (Python 3 and R) to generate each figure in this paper. 
 
 **Figure 1**. Program gender demographics varied over time. Yearly program size by gender shows female representation has varied, but has been increasing in recent years. The total number of female students in the program each year is represented by light-grey circles; the total number of male students in the program each year is represented by dark-grey squares. 
 
@@ -14,7 +14,7 @@ The repository contains raw data and code (Python 3) to generate figures 1, 2, a
 **Figure 5**. Gender does not predict question-asking behavior in a weekly MSTP seminar during the 2018-2019 academic year. Questions posed to a female speaker are represented as light-grey circles; questions posed to a male speaker are represented as dark-grey squares. (A) Women and men were equally represented as question-askers (p=0.30). (B) The percentage of audience members who asked questions when the speaker was female is compared to the percentage who asked questions when the speaker was male. The likelihood of female and male speakers receiving questions from both female and male audience members did not differ significantly (p=0.65).
 
 ### Dependencies
-All required dependencies are imported into the Jupyter Notebook Files or R files as they run. 
+All required dependencies are imported into the Jupyter Notebook Files or R scripts as they run. 
 
 ### To run 
 **Figures 1, 2, and 3**: Navigate to the `code` directory and launch Jupyter Notebook from the command line by typing `Jupyter Notebook`. Run each script in full or cell by cell. 
@@ -27,6 +27,6 @@ These scripts should generate a PDF and save it to the `figure` directory. Figur
 Please reach out to Kat Braun @ kmbraun2@gmail.edu with questions or concerns. 
 
 ## Authors
-**Figures 1, 2 and 3**: code written by Kat Braun. 
+**Figures 1, 2 and 3**: code written by Kat Braun.   
 **Figures 4 and 5**: code written by Cora Allen-Coleman. 
 
