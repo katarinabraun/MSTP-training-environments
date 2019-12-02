@@ -9,14 +9,24 @@ The repository contains raw data and code (Python 3) to generate figures 1, 2, a
 
 **Figure 3**. Number of total and first-author publications by gender. Publications counts are from MSTP students while they are students in teh program. These data are from students who graduated between the years 2009 - 2019. There are no statistically significant differences in first author and total publications from men and women. However, male students, on average, graduate with one additional paper compared to female students. 
 
+**Figure 4**. Gender predicts question-asking behavior in a weekly MSTP seminar during the 2017-2018 academic year. Questions posed to a female speaker are represented as light-grey circles; questions posed to a male speaker are represented as dark-grey squares. (A) Women were significantly underrepresented as question-askers (p<0.005). (B) The percentage of audience members who asked questions when the speaker was female is compared to the percentage who asked questions when the speaker was male. Female speakers were more likely than male speakers to receive questions from both male and female audience members (p=0.03).
+
+**Figure 5**. Gender does not predict question-asking behavior in a weekly MSTP seminar during the 2018-2019 academic year. Questions posed to a female speaker are represented as light-grey circles; questions posed to a male speaker are represented as dark-grey squares. (A) Women and men were equally represented as question-askers (p=0.30). (B) The percentage of audience members who asked questions when the speaker was female is compared to the percentage who asked questions when the speaker was male. The likelihood of female and male speakers receiving questions from both female and male audience members did not differ significantly (p=0.65).
+
 ### Dependencies
-All required dependencies are imported into the Jupyter Notebook Files as they are run. 
+All required dependencies are imported into the Jupyter Notebook Files or R files as they run. 
 
 ### To run 
-Navigate to the `code` directory and launch Jupyter Notebook from the command line by typing `Jupyter Notebook`. Run each script in full or cell by cell. 
+**Figures 1, 2, and 3**: Navigate to the `code` directory and launch Jupyter Notebook from the command line by typing `Jupyter Notebook`. Run each script in full or cell by cell. 
+
+**Figures 4 and 5**: Download the R scripts and run `data_cleaning`, followed by `analysis` and finally `make_figures`. 
 
 ## Output
-These scripts should generate a PDF and save it to the `figure` directory.
+These scripts should generate a PDF and save it to the `figure` directory. Figures 1, 2, and 3 generate PDFs and figures 4 and 5 generate png files. 
 
-Please reach out to Kat Braun @ kmbraun2@wisc.edu with questions or concerns. 
+Please reach out to Kat Braun @ kmbraun2@gmail.edu with questions or concerns. 
+
+## Authors
+**Figures 1, 2 and 3**: code written by Kat Braun. 
+**Figures 4 and 5**: code written by Cora Allen-Coleman. 
 
