@@ -133,3 +133,4 @@ f1 <- ggplot(dat, aes(x = PercentWomenPresent, y = PercentQuestionsFromWomen, co
 #without text
 f3 <- f1 + geom_polygon(data=df_poly, aes(PercentWomenPresent, PercentWomenQuestions), fill="grey", colour = "black", alpha=0.2); f3
 ggsave(filename = "../figures/figure5A_speakers_gender.png", width = 7, height = 7, plot = f3)   
+
