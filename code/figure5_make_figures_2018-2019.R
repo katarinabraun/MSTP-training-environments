@@ -21,7 +21,7 @@ pI_notext <- ggplot(data = IP, aes(x = attendee, y = P1orMoreQ, group = speaker,
   ggtitle("") +
   ylim(0, 42) + 
   theme(axis.title.y = element_text(margin = margin(t = 0, r = 20, b = 0, l = 0))) +
-  xlab("\nStudent attendee gender") + ylab("Proportion who asked least one question\n") +
+  xlab("\nStudent attendee gender") + ylab("Proportion of students who asked least one question\n") +
   scale_color_manual(labels=c("female","male"), values = c("darkgrey", "black")) +
   scale_shape_manual(name = "Speaker Gender", labels=c("female","male"), values = c(19, 15)) + 
   theme_bw() + labs(color = "Speaker Gender") + theme(text=element_text(family="Helvetica", size=10)) + 
