@@ -5,7 +5,7 @@ The repository contains raw data and code (Python 3 and R) to generate each figu
 
 **Figure 1**. Program gender demographics varied over time. Yearly program size by gender shows female representation has varied, but has been increasing in recent years. The total number of female students in the program each year is represented by light-grey circles; the total number of male students in the program each year is represented by dark-grey squares. 
 
-**Figure 2**. Invited guest and faculty speakers at the annual symposium are more likely to be male. Equal representation of male and female student, faculty and keynote speakers at the annual symposium was determined using an exact binomial test. (A) Female and male students were equally like to be invited to speak at symposium (p=0.576). (B) Faculty speakers were significantly more likely to be male (p=0.001). (C) Invited Keynote speakers were also significantly more likely to be male (p<0.0012).  
+**Figure 2**. Invited guest and faculty speakers at the annual symposium are more likely to be male. Equal representation of male and female student, faculty and keynote speakers at the annual symposium was determined using an exact binomial test. (A) Female and male students were equally like to be invited to speak at symposium (p=0.576). (B) Faculty speakers were significantly more likely to be male (p=0.001). (C) Invited Keynote speakers were also significantly more likely to be male (p=0.012).  
 
 **Figure 3**. Number of total and first-author publications by gender. Publications counts are from MSTP students while they are students in the program. These data are from students who graduated between the years 2009 - 2019. There are no statistically significant differences in first author and total publications from men and women. However, male students, on average, had one additional paper from their PhD work compared to female students.  
 
@@ -24,9 +24,9 @@ All required dependencies are imported into the Jupyter Notebook Files or R scri
 ## Output
 These scripts should generate a PDF and save it to the `figure` directory. Figures 1, 2, and 3 generate PDFs and figures 4 and 5 generate png files. 
 
-Please reach out to Kat Braun @ kmbraun2@gmail.edu with questions or concerns. 
+Please reach out to Kat Braun @ kmbraun2@gmail.edu with questions. 
 
 ## Authors
-**Figures 1, 2 and 3**: code written by Kat Braun.   
+**Figures 1, 2 and 3**: code written by @katarinabraun  
 **Figures 4 and 5**: code written by Cora Allen-Coleman. 
 
