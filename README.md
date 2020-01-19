@@ -19,7 +19,7 @@ All required dependencies are imported into the Jupyter Notebook Files or R scri
 ### To run 
 **Figures 1, 2, and 3**: Navigate to the `code` directory and launch Jupyter Notebook from the command line by typing `Jupyter Notebook`. Run each script in full or cell by cell. 
 
-**Figures 4 and 5**: Download the R scripts and run `data_cleaning`, followed by `analysis` and finally `make_figures`. 
+**Figures 4 and 5**: Download the R scripts and run `data_cleaning`, followed by `make_figures`. 
 
 ## Output
 These scripts should generate a PDF and save it to the `figure` directory. Figures 1, 2, and 3 generate PDFs and figures 4 and 5 generate png files. 
