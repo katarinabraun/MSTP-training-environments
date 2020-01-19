@@ -27,6 +27,6 @@ These scripts should generate a PDF and save it to the `figure` directory. Figur
 Please reach out to Kat Braun @ kmbraun2@gmail.edu with questions. 
 
 ## Authors
-**Figures 1, 2 and 3**: code written by @katarinabraun  
+**Figures 1, 2 and 3**: code written by Katarina Braun. 
 **Figures 4 and 5**: code written by Cora Allen-Coleman. 
 
